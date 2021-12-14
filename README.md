@@ -44,11 +44,11 @@ Python 3.6.13 :: Anaconda, Inc.
 pip 21.3.1 from A:\IDE\Anaconda3\envs\Onr-Council-GAN\lib\site-packages\pip (python 3.6)
 ```
 
-&ensp; [conda environment.yml](.\environment.yml)
+&ensp; [conda environment.yml](./environment.yml)
 
-&ensp; [pip requirements.txt](.\requirements.txt)
+&ensp; [pip requirements.txt](./requirements.txt)
 
-&ensp;&ensp; * &nbsp;require to install [cmake](.\cmake-3.22.1-windows-x86_64.msi) for [dlib](.\dlib-19.8.1-cp36-cp36m-win_amd64.whl) installation.
+&ensp;&ensp; * &nbsp;require to install [cmake](./cmake-3.22.1-windows-x86_64.msi) for [dlib](./dlib-19.8.1-cp36-cp36m-win_amd64.whl) installation.
 
 </br>
 

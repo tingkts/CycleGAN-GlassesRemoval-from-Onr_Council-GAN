@@ -12,7 +12,6 @@ __**Environment**__ :
 &ensp; CUDA 11.0：
 
 ```
-A:\GitHub\CycleGAN-GlassesRemoval-from-Onr_Council-GAN\Onr_Council-GAN (master-notes -> origin)
 λ nvcc --version
 nvcc: NVIDIA (R) Cuda compiler driver
 Copyright (c) 2005-2020 NVIDIA Corporation
